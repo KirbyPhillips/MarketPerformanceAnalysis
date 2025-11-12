@@ -20,24 +20,22 @@ The analysis focused on the following **metrics:**
  •	**Product Performance:** Evaluating potential market size and coffee-drinking population per city.
 
  •	**Profitability Ratio:** Comparing average revenue per customer to average rent per region.
-
- •	**Market Traction:** Assessing sustained sales growth and consistency over time. 
-
 </td>
 </tr>
 </table>
 
 <h1 align="center">Executive Summary</h1>
-
 <h3 align="center">How sales performance evolved with shifting demand and growth</h3>
  
 <p align="center">
  <img width="575" height="323" alt="{BEB72465-DF1E-4E0C-8985-78C82314C294}" src="https://github.com/user-attachments/assets/fffbb9a7-33af-4f6d-a708-597c8ae201c8" />
-
-<table>
 <tr>
 <td style="width: 50%; border-right: 1px solid #ddd; padding-right: 20px;">
 
+<table>
+<tr>
+<td>
+ 
 1. **Revenue Growth and Peak Performance:**
    - October 2023 marked the strongest performance period, with a 195% month-over-month sales growth, indicating a sales surge possibly driven by seasonal or promotional events.
    - Following this peak, sales remained strong through November 2023 to February 2024, sustaining healthy revenue levels above $15K.
@@ -61,8 +59,6 @@ The analysis focused on the following **metrics:**
    - Mitigate sales slumps during April–May by scheduling marketing pushes, product campaigns, or loyalty initiatives in advance.
    - Capitalize on high-growth months (Oct, Mar, Jul) to refine promotion timing and strengthen overall year-round stability.
    - Refocus efforts on sustaining momentum after spikes by improving repeat customer engagement and monitoring conversion efficiency post-peak.
-     
-
 </td>
 </tr>
 </table>
@@ -70,7 +66,6 @@ The analysis focused on the following **metrics:**
 <h2 align="center">Dataset Structure</h2>
 
 The dataset consists of 4 key tables that form the analytical backbone of the project: **Sales, Products, Customers, City**
-
 Relationships were established between Sales, Products, Customers and City tables in the **entity relationship diagram (ERD)** shown below to calculate sales per capita, profitability per region, and growth trends over time.
 
 <h2 align="center">Key Findings</h2>
@@ -122,11 +117,7 @@ Relationships were established between Sales, Products, Customers and City table
   </tr>
 </table>
 
-
-
-
 <h3 align="center">Product Performance</h3>
-
 <table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 
   <!-- 1) Top 5 Revenue Generating Products Over Time (boxed) -->
@@ -141,26 +132,47 @@ Relationships were established between Sales, Products, Customers and City table
   <!-- Spacer -->
   <tr><td style="height:20px; background:#ffffff;"></td></tr>
 
-  <!-- 2) Top 10 Product Sales by City (boxed) -->
-  <tr>
-    <td style="padding:10px; vertical-align:top; border:1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/b7579e37-82be-4a40-8219-7ae7552f8be3"
-           alt="Top 10 Product Sales by City"
-           width="100%" style="display:block; max-width:1180px; margin:0 auto;">
-    </td>
-  </tr>
+<table>
+<tr>
+<td style="width: 50%; border-right: 1px solid #ddd; padding-right: 20px;">
+ 
+1. **Revenue Growth and Peak Performance:**
+   - October 2023 marked the strongest performance period, with a 195% month-over-month sales growth, indicating a sales surge possibly driven by seasonal or promotional events.
+   - Following this peak, sales remained strong through November 2023 to February 2024, sustaining healthy revenue levels above $15K.
+   - March 2024 saw a secondary recovery, growing 16% month-over-month, reinforcing consistent buyer activity in Q1 2024.
+
+2. **Declining Trend in 2022**
+   - Noticeable downturns occurred in April (–73%) and May (–32%), signaling potential seasonal demand dips or a slowdown in returning customers.
+   - Despite these declines, sales stabilized from June through September, showing small but steady gains between +1% to +23%.
+   - These fluctuations indicate a pattern of cyclical sales volatility, with rapid surges followed by short recovery periods.
+
+</td>
+<td style="width: 50%; padding-left: 20px;">
+
+3. **Quarterly Insights & Seasonal Trends**
+   - Q3 and Q4 2023 demonstrated the strongest revenue periods, with October’s performance far surpassing the annual average.
+   - Early 2024 showed moderate performance overall, led by March and July growth spikes, suggesting that strategic marketing during recovery months can maintain consistent performance.
+   - The data suggests post-peak stabilization rather than continued exponential growth — ideal for planning retention-focused campaigns.
+
+4. **Key Takeaways & Recommendations**
+   - Investigate drivers of October’s 195% surge (e.g., seasonal events, promotions, or product launches) to replicate success in similar months.
+   - Mitigate sales slumps during April–May by scheduling marketing pushes, product campaigns, or loyalty initiatives in advance.
+   - Capitalize on high-growth months (Oct, Mar, Jul) to refine promotion timing and strengthen overall year-round stability.
+   - Refocus efforts on sustaining momentum after spikes by improving repeat customer engagement and monitoring conversion efficiency post-peak.
+</td>
+</tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<!-- 3) Bottom chart (boxed and perfectly aligned) -->
+<tr>
+  <td style="border:1px solid #ddd; padding:5px; background-color:#ffffff; vertical-align:top;">
+    <img src="https://github.com/user-attachments/assets/b7579e37-82be-4a40-8219-7ae7552f8be3"
+         alt="Top 10 Product Sales by City"
+         width="100%" style="display:block; width:1180px; margin:0 auto; border:1px solid #ddd;">
+  </td>
+</tr>
+</table>
 
 <h3 align="center">Profitability by City</h3>
 
@@ -181,31 +193,6 @@ Relationships were established between Sales, Products, Customers and City table
     </td>
   </tr>
 </table>
-
-
-<h3 align="center">Market Traction and Growth</h3>
-
-<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <td width="600" style="border:1px solid #ddd; border-right:none; padding:10px; vertical-align:top;">
-      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
-      <img src="https://github.com/user-attachments/assets/dac666aa-e9a2-45eb-8e8a-7ab60933725e"
-           alt="Growth Recovery Chart" width="560" height="280" style="display:block; margin:0 auto;" />
-    </td>
-    <td width="600" style="border:1px solid #ddd; padding:10px; vertical-align:top;">
-      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
-      <img src="https://github.com/user-attachments/assets/f7c197f7-b37f-42cf-bc96-9e8c100a1bc3"
-           alt="Month-over-Month Growth Chart" width="560" height="280" style="display:block; margin:0 auto;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
-      1. South Holland, Groningen, and Utrecht Metro display the strongest post-Q3 growth recovery and consistent month-over-month increases.<br><br>
-      2. These markets demonstrate resilience and readiness for additional investment.
-    </td>
-  </tr>
-</table>
-
 
 <h2 align="center">Recommendations</h2>
 
