@@ -1,20 +1,20 @@
 # Market Performance Analysis
 
-> ## Company Overview
+ ## Company Overview
 
-> **Cupcakes & Coffee** is a Netherlands based café chain that operates across 7 city regions, offering artisanal cupcakes and specialty coffee.
+ **Cupcakes & Coffee** is a Netherlands based café chain that operates across 7 city regions, offering artisanal cupcakes and specialty coffee.
 
-> Since launching, the brand has grown steadily and developed a loyal customer base, but management sees untapped potential in emerging markets. To achieve sustainable expansion, Cupcakes & Coffee seeks to identify new locations for strategic growth through a data-driven analysis of sales, customer reach, product demand, and regional performance.
+ Since launching, the brand has grown steadily and developed a loyal customer base, but management sees untapped potential in emerging markets. To achieve sustainable expansion, Cupcakes & Coffee seeks to identify new locations for strategic growth through a data-driven analysis of sales, customer reach, product demand, and regional performance.
 
-> Reporting to the **Head of Strategy and Business Development**, a market performance review was conducted to identify the top 3 cities with the strongest combination of demand, profitability, and long-term growth viability.
+ Reporting to the **Head of Strategy and Business Development**, a market performance review was conducted to identify the top 3 cities with the strongest combination of demand, profitability, and long-term growth viability.
 
-> The analysis focused on the following metrics:
+ The analysis focused on the following metrics:
 
-> •	**Sales Performance:** Measuring total revenue and order volumes across cities.
+ •	**Sales Performance:** Measuring total revenue and order volumes across cities.
 
-> •	**Customer Reach:** Evaluating potential market size and coffee-drinking population per city.
+ •	**Customer Reach:** Evaluating potential market size and coffee-drinking population per city.
 
-> •	**Profitability Ratio:** Comparing average revenue per customer to average rent per region.
+ •	**Profitability Ratio:** Comparing average revenue per customer to average rent per region.
 
-> •	**Market Traction:** Assessing sustained sales growth and consistency over time. 
+ •	**Market Traction:** Assessing sustained sales growth and consistency over time. 
 
