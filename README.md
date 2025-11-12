@@ -46,7 +46,6 @@ The analysis focused on the following **metrics:**
    - Noticeable downturns occurred in April (–73%) and May (–32%), signaling potential seasonal demand dips or a slowdown in returning customers.
    - Despite these declines, sales stabilized from June through September, showing small but steady gains between +1% to +23%.
    - These fluctuations indicate a pattern of cyclical sales volatility, with rapid surges followed by short recovery periods.
-   - These fluctuations indicate a pattern of cyclical sales volatility, with rapid surges followed by short recovery periods.
 
 </td>
 <td style="width: 50%; padding-left: 20px;">
