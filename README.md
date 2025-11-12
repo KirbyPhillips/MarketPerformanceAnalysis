@@ -9,6 +9,7 @@ Since launching, the brand has grown steadily and developed a loyal customer bas
 Reporting to the Head of Strategy and Business Development, a market performance review was conducted to identify the top 3 cities with the strongest combination of demand, profitability, and long-term growth viability.
 
 The analysis focused on the following metrics:
+
 •	Sales Performance: Measuring total revenue and order volumes across cities.
 •	Customer Reach: Evaluating potential market size and coffee-drinking population per city.
 •	Profitability Ratio: Comparing average revenue per customer to average rent per region.
