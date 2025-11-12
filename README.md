@@ -101,9 +101,46 @@ Relationships were established between Sales, Products, Customers and City table
 </table>
 
 <h3 align="center">Customer Reach</h3>
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <td width="50%" style="border:1px solid #ddd; border-right:none; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/3785fa44-3bb2-46b1-8772-86ebb722cd9f"
+           alt="Largest Coffee Consumers by City" width="520" style="display:block; margin:0 auto;">
+    </td>
+    <td width="50%" style="border:1px solid #ddd; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/1dcb888f-1adb-4529-8e88-cbe52a7d98e4"
+           alt="Highest Revenue Generating Cities" width="520" style="display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
+      1. Randstad boasts the largest estimated 2.08M coffee consumers, followed by Amsterdam (980K) and Rotterdam Metro (680K).<br><br>
+      2. These cities represent prime opportunities for expanding brand visibility and customer reach.
+    </td>
+  </tr>
+</table>
 
- 1. Randstad boasts the largest estimated 2.08M coffee consumers, followed by Amsterdam (980K) and Rotterdam Metro (680K).
- 2. These cities represent prime opportunities for expanding brand visibility and customer reach.
+<h3 align="center">Product Performance</h3>
+
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <!-- Full-width centered chart -->
+    <td style="border:1px solid #ddd; padding:10px; text-align:center;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/ae79bc6f-25f9-4b61-a18e-64c39e31c024"
+           alt="Product Performance Chart" width="1150" style="display:block; margin:0 auto;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
+      1. South Holland and Groningen maintain the highest products sold.<br><br>
+      2. Randstad and Amsterdam generate high revenue per product.
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Profitability by City</h3>
