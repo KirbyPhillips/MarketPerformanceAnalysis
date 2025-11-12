@@ -27,7 +27,7 @@
 
 <h1 align="center">Executive Summary</h1>
 
- <h2 align="center" style="border-bottom: none;">How sales performance evolved with shifting demand and growth</h2>
+<h2 align="center" style="border: none; padding-bottom: 0;">How sales performance evolved with shifting demand and growth</h2>
 <p align="center">
  <img width="591" height="303" alt="{12460D28-6036-41E9-BC8F-E413BE82C1F2}" src="https://github.com/user-attachments/assets/4d863f44-617a-44e9-821c-4b3c9cbf0aa4" />
 
