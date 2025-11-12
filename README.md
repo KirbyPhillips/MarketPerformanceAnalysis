@@ -135,3 +135,7 @@ These are the recommendations based on the key findings:
  <h2 align="center">Assumptions</h2>
 
  For the purpose of this analysis, it was assumed that 25% of the Dutch population consumes coffee.
+
+ <h2 align="center">General note</h2>
+
+ The interactive dashboard of this project can be viewed here.
