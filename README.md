@@ -122,38 +122,44 @@ Relationships were established between Sales, Products, Customers and City table
   </tr>
 </table>
 
+
+
+
 <h3 align="center">Product Performance</h3>
+
 <table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+
+  <!-- 1) Top 5 Revenue Generating Products Over Time (boxed) -->
   <tr>
-    <!-- 1st chart with title -->
-    <td style="padding:20px; vertical-align:top; border:1px solid #ddd;">
+    <td style="padding:10px; vertical-align:top; border:1px solid #ddd;">
       <img src="https://github.com/user-attachments/assets/228e4b02-b38b-47c5-9ba5-8263e31df585"
-           alt="Top 5 Revenue Generating Products Over Time" width="100%" style="display:block; max-width:1180px; margin:0 auto;">
+           alt="Top 5 Revenue Generating Products Over Time"
+           width="100%" style="display:block; max-width:1180px; margin:0 auto;">
     </td>
   </tr>
+
+  <!-- Spacer -->
+  <tr><td style="height:20px; background:#ffffff;"></td></tr>
+
+  <!-- 2) Top 10 Product Sales by City (boxed) -->
   <tr>
-    <!-- ACTUAL SPACING ROW -->
-    <td style="height:40px; background-color:white;"></td>
-  </tr>
-  <tr>
-    <!-- 2nd chart with title -->
-    <td style="padding:20px; vertical-align:top; border:1px solid #ddd;">
+    <td style="padding:10px; vertical-align:top; border:1px solid #ddd;">
       <img src="https://github.com/user-attachments/assets/b7579e37-82be-4a40-8219-7ae7552f8be3"
-           alt="Top 10 Product Sales by City" width="100%" style="display:block; max-width:1180px; margin:0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <!-- SPACING ROW -->
-    <td style="height:20px; background-color:white;"></td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
-      <strong>Key Insights:</strong><br><br>
-      1. South Holland and Groningen maintain the highest products sold.<br><br>
-      2. Randstad and Amsterdam generate high revenue per product.
+           alt="Top 10 Product Sales by City"
+           width="100%" style="display:block; max-width:1180px; margin:0 auto;">
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="center">Profitability by City</h3>
@@ -199,43 +205,6 @@ Relationships were established between Sales, Products, Customers and City table
     </td>
   </tr>
 </table>
-
-<h3 align="center">Market Traction and Growth</h3>
-<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-  <tr>
-    <!-- 1st chart with title -->
-    <td style="padding:20px; vertical-align:top; border:1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/dac666aa-e9a2-45eb-8e8a-7ab60933725e"
-           alt="Top 5 Revenue Generating Products Over Time" width="100%" style="display:block; max-width:1180px; margin:0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <!-- ACTUAL SPACING ROW -->
-    <td style="height:40px; background-color:white;"></td>
-  </tr>
-  <tr>
-    <!-- 2nd chart with title -->
-    <td style="padding:20px; vertical-align:top; border:1px solid #ddd;">
-      <img src="https://github.com/user-attachments/assets/f7c197f7-b37f-42cf-bc96-9e8c100a1bc3"
-           alt="Top 10 Product Sales by City" width="100%" style="display:block; max-width:1180px; margin:0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <!-- SPACING ROW -->
-    <td style="height:20px; background-color:white;"></td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
-      <strong>Key Insights:</strong><br><br>
-      1. South Holland, Groningen, and Utrecht Metro display the strongest post-Q3 growth recovery and consistent month-over-month increases.<br><br>
-      2. These markets demonstrate resilience and readiness for additional investment.
-    </td>
-  </tr>
-</table>
-
-
-
-
 
 
 <h2 align="center">Recommendations</h2>
