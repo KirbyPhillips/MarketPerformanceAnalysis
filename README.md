@@ -149,7 +149,7 @@ Relationships were established between Sales, Products, Customers and City table
     <!-- Full-width centered profitability chart -->
     <td style="border:1px solid #ddd; padding:10px; text-align:center;">
       <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
-      <img src="https://github.com/user-attachments/assets/482a7d42-bac7-4249-b36b-655b4a1533b4"
+      <img src="https://github.com/user-attachments/assets/80e40d02-ab48-4cf0-84c6-e739279715d3"
            alt="Profitability by City Chart" width="1150" style="display:block; margin:0 auto;">
     </td>
   </tr>
