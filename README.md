@@ -163,6 +163,7 @@ Relationships were established between Sales, Products, Customers and City table
 </tr>
 </table>
 
+
 <table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
 <!-- 3) Bottom chart (boxed and perfectly aligned) -->
 <tr>
@@ -173,6 +174,7 @@ Relationships were established between Sales, Products, Customers and City table
   </td>
 </tr>
 </table>
+
 
 <h3 align="center">Profitability by City</h3>
 
