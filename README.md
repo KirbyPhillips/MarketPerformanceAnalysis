@@ -28,4 +28,5 @@
 ## Executive Summary 
 
 <p align="center">
- <img width="349" height="132" alt="{A3A1880C-4446-4F60-9C7F-C74609A0F9FC}" src="https://github.com/user-attachments/assets/909c3259-110f-47ed-bba0-6274ca86c687" />
+ <img width="591" height="303" alt="{12460D28-6036-41E9-BC8F-E413BE82C1F2}" src="https://github.com/user-attachments/assets/4d863f44-617a-44e9-821c-4b3c9cbf0aa4" />
+
