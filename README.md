@@ -40,10 +40,12 @@ The analysis focused on the following **metrics:**
    - October 2023 marked the strongest performance period, with a 195% month-over-month sales growth, indicating a sales surge possibly driven by seasonal or promotional events.
    - Following this peak, sales remained strong through November 2023 to February 2024, sustaining healthy revenue levels above $15K.
    - March 2024 saw a secondary recovery, growing 16% month-over-month, reinforcing consistent buyer activity in Q1 2024.
+   - March 2024 saw a secondary recovery, growing 16% month-over-month, reinforcing consistent buyer activity in Q1 2024.
 
 2. **Declining Trend in 2022**
    - Noticeable downturns occurred in April (–73%) and May (–32%), signaling potential seasonal demand dips or a slowdown in returning customers.
    - Despite these declines, sales stabilized from June through September, showing small but steady gains between +1% to +23%.
+   - These fluctuations indicate a pattern of cyclical sales volatility, with rapid surges followed by short recovery periods.
    - These fluctuations indicate a pattern of cyclical sales volatility, with rapid surges followed by short recovery periods.
 
 </td>
