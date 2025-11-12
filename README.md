@@ -162,12 +162,35 @@ Relationships were established between Sales, Products, Customers and City table
   </tr>
 </table>
 
-
 <h3 align="center">Market Traction and Growth</h3>
 
- 1. South Holland, Groningen, and Utrecht Metro display the strongest post-Q3 growth recovery and consistent month-over-month increases.
-   
- 2. These markets demonstrate resilience and readiness for additional investment.
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <td width="600" style="border:1px solid #ddd; border-right:none; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/dac666aa-e9a2-45eb-8e8a-7ab60933725e"
+           alt="Growth Recovery Chart" width="560" height="280" style="display:block; margin:0 auto;" />
+    </td>
+    <td width="600" style="border:1px solid #ddd; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/f7c197f7-b37f-42cf-bc96-9e8c100a1bc3"
+           alt="Month-over-Month Growth Chart" width="560" height="280" style="display:block; margin:0 auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
+      1. South Holland, Groningen, and Utrecht Metro display the strongest post-Q3 growth recovery and consistent month-over-month increases.<br><br>
+      2. These markets demonstrate resilience and readiness for additional investment.
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 <h2 align="center">Recommendations</h2>
 
