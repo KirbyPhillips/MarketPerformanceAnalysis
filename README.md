@@ -142,12 +142,26 @@ Relationships were established between Sales, Products, Customers and City table
   </tr>
 </table>
 
-
 <h3 align="center">Profitability by City</h3>
 
- 1. South Holland and Groningen maintain the highest revenue-to-rent ratio, ensuring financial efficiency.
-   
- 2. Randstad and Amsterdam generate high revenue but incur greater rent costs, reducing net margins.
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <!-- Full-width centered profitability chart -->
+    <td style="border:1px solid #ddd; padding:10px; text-align:center;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/482a7d42-bac7-4249-b36b-655b4a1533b4"
+           alt="Profitability by City Chart" width="1150" style="display:block; margin:0 auto;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
+      1. South Holland and Groningen maintain the highest revenue-to-rent ratio, ensuring financial efficiency.<br><br>
+      2. Randstad and Amsterdam generate high revenue but incur greater rent costs, reducing net margins.
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center">Market Traction and Growth</h3>
 
