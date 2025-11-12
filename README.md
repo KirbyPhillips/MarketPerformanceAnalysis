@@ -1,6 +1,9 @@
 # Market Performance Analysis
 
  ## Company Overview
+ <table>
+<tr>
+<td>
 
  **Cupcakes & Coffee** is a Netherlands based café chain that operates across 7 city regions, offering artisanal cupcakes and specialty coffee.
 
@@ -18,3 +21,6 @@
 
  •	**Market Traction:** Assessing sustained sales growth and consistency over time. 
 
+</td>
+</tr>
+</table>
