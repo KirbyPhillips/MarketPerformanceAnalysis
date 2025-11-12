@@ -11,7 +11,7 @@
 
  Reporting to the **Head of Strategy and Business Development**, a market performance review was conducted to identify the top 3 cities with the strongest combination of demand, profitability, and long-term growth viability.
 
- The analysis focused on the following metrics:
+ The analysis focused on the following **metrics:**
 
  •	**Sales Performance:** Measuring total revenue and order volumes across cities.
 
@@ -26,3 +26,6 @@
 </table>
 
 ## Executive Summary 
+
+<p align="center">
+ <img width="349" height="132" alt="{A3A1880C-4446-4F60-9C7F-C74609A0F9FC}" src="https://github.com/user-attachments/assets/909c3259-110f-47ed-bba0-6274ca86c687" />
