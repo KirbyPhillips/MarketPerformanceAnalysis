@@ -13,9 +13,11 @@ Reporting to the **Head of Strategy and Business Development**, a market perform
 
 The analysis focused on the following **metrics:**
 
- •	**Sales Performance:** Measuring total revenue and order volumes across cities.
+ •	**Sales Trends:** Measuring total revenue and order volumes across cities.
 
  •	**Customer Reach:** Evaluating potential market size and coffee-drinking population per city.
+
+ •	**Product Performance:** Evaluating potential market size and coffee-drinking population per city.
 
  •	**Profitability Ratio:** Comparing average revenue per customer to average rent per region.
 
@@ -72,25 +74,43 @@ The dataset consists of 4 key tables that form the analytical backbone of the pr
 Relationships were established between Sales, Products, Customers and City tables in the **entity relationship diagram (ERD)** shown below to calculate sales per capita, profitability per region, and growth trends over time.
 
 <h2 align="center">Key Findings</h2>
-<h3 align="center">Sales Trends</h3>
 
- 1. South Holland and Groningen lead in total revenue, each surpassing $42K in sales.
-  
- 2. Cupcake sales dominate, with Classic Vanilla, Chocolate Fudge, and Red Velvet as bestsellers.
-    
- 3. Groningen shows strong sales consistency throughout the year, signaling steady customer loyalty.
+<h3 align="center">Sales Trends</h3>
+<table align="center" width="1200" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <td width="33%" style="border:1px solid #ddd; border-right:none; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/6dc26a78-e0b2-42a1-81da-b00e45c7d621" alt="Sales Revenue" width="380" style="display:block; margin:0 auto;">
+    </td>
+    <td width="33%" style="border:1px solid #ddd; border-right:none; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/54195b08-ac37-4fc4-a674-34e1490c2f16" alt="Total Orders" width="380" style="display:block; margin:0 auto;">
+    </td>
+    <td width="34%" style="border:1px solid #ddd; padding:10px; vertical-align:top;">
+      <div style="text-align:center; color:#5E17EB; font-weight:600; margin-bottom:6px;"></div>
+      <img src="https://github.com/user-attachments/assets/b4a09f80-ef8f-4fe0-9dee-7dfd8ed6ab90" alt="Avg Revenue per Sale" width="380" style="display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border:1px solid #ddd; padding:20px; background-color:#f9f9f9;">
+      1. South Holland and Groningen lead in total revenue, each surpassing $42K in sales.<br><br>
+      2. Cupcake sales dominate, with Classic Vanilla, Chocolate Fudge, and Red Velvet as bestsellers.<br><br>
+      3. Groningen shows strong sales consistency throughout the year, signaling steady customer loyalty.
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Customer Reach</h3>
+
+ 1. Randstad boasts the largest estimated 2.08M coffee consumers, followed by Amsterdam (980K) and Rotterdam Metro (680K).
+ 2. These cities represent prime opportunities for expanding brand visibility and customer reach.
+
 
 <h3 align="center">Profitability by City</h3>
 
  1. South Holland and Groningen maintain the highest revenue-to-rent ratio, ensuring financial efficiency.
    
  2. Randstad and Amsterdam generate high revenue but incur greater rent costs, reducing net margins.
-
-<h3 align="center">Customer Reach and Coffee Population</h3>
-
- 1. Randstad boasts the largest estimated 2.08M coffee consumers, followed by Amsterdam (980K) and Rotterdam Metro (680K).
-   
- 2. These cities represent prime opportunities for expanding brand visibility and customer reach.
 
 <h3 align="center">Market Traction and Growth</h3>
 
