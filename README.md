@@ -11,7 +11,10 @@ Reporting to the Head of Strategy and Business Development, a market performance
 The analysis focused on the following metrics:
 
 •	Sales Performance: Measuring total revenue and order volumes across cities.
+
 •	Customer Reach: Evaluating potential market size and coffee-drinking population per city.
+
 •	Profitability Ratio: Comparing average revenue per customer to average rent per region.
+
 •	Market Traction: Assessing sustained sales growth and consistency over time. 
 
